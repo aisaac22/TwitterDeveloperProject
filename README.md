@@ -1,8 +1,8 @@
-# Project 3 - *TwitterReader*
+# Project 3 - *Name of App Here*
 
-**TwitterReader** is a basic twitter app to read your tweets.
+**Name of your app** is a basic twitter app to read your tweets.
 
-Time spent: **4** hours spent in total
+Time spent: **X** hours spent in total
 
 ## User Stories
 
@@ -11,16 +11,17 @@ The following **required** functionality is completed:
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
 - [x] User can log in. (1pt)
 - [x] User can log out. (1pt)
-- [x] User stays logged in across restarts. (1pt)
-- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [ ] User stays logged in across restarts. (1pt)
+- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
 The following **bonus** features are implemented:
 
-- [x] User can pull to refresh. (1pt)
-- [x] User can load past tweets infinitely. (2pts)
+- [ ] User can pull to refresh. (1pt)
+- [ ] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](https://i.imgur.com/wIrNR5G.gif)
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
