@@ -23,5 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/clHCpPO.gif)
+
+
+![](https://i.imgur.com/Z5Liiaw.gif)
 
