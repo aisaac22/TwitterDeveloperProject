@@ -22,8 +22,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-
-
-![](https://i.imgur.com/Z5Liiaw.gif)
+![](https://i.imgur.com/wIrNR5G.gif)
 
